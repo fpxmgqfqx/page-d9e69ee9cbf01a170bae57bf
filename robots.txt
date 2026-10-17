@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-2462e37b2b.ozqcvhd.cn/sitemap.xml
